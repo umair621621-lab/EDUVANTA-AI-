@@ -1,0 +1,6 @@
+{
+  "name": "EduVanta - AI Study Abroad Consultancy & University Marketplace",
+  "description": "Pakistan's premier AI-powered study abroad platform operated from Karachi. Discover 40+ top universities, check instant AI eligibility, compare programs, manage applications, and access expert visa counselling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
